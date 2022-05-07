@@ -1,4 +1,4 @@
-package com.dataStructuresAndAlgorithms;
+package com.dataStructuresAndAlgorithms.arrays;
 
 public class Array {
 

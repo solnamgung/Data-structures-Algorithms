@@ -1,6 +1,4 @@
-package com.dataStructuresAndAlgorithms.highArray;
-
-import java.util.EnumMap;
+package com.dataStructuresAndAlgorithms.arrays.highArray;
 
 public class HighArray {
     private long[] a;
