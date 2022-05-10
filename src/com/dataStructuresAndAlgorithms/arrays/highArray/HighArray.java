@@ -8,7 +8,7 @@ public class HighArray {
         a = new long[max];
         nElements = 0;
     }
-    public boolean find(long searchKey) { // find specified value
+    public boolean find(long searchKey) { // find specified value : Linear search
         int j;
         for(j = 0; j < nElements; j++)
             if(a[j] == searchKey)
