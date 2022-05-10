@@ -1,7 +1,5 @@
 package com.dataStructuresAndAlgorithms.arrays.decendingOrder;
 
-import com.dataStructuresAndAlgorithms.arrays.Array;
-
 import java.util.ArrayList;
 
 public class Manager {
