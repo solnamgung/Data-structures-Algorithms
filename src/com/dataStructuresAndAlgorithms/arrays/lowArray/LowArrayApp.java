@@ -40,7 +40,7 @@ public class LowArrayApp {
             arr.setElement(i, arr.getElement(i+1));
         nElements--;
 
-        for(j = 0; j < nElements; j++)
-            System.out.print(arr.getElement(j) + " ");
+        for(int k = 0; k < nElements; k++)
+            System.out.print(arr.getElement(k) + " ");
     }
 }
