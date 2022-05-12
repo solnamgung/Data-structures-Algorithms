@@ -1,4 +1,4 @@
-package com.dataStructuresAndAlgorithms.arrays.lowArray;
+package lowArray;
 
 public class LowArrayApp {
     public static void main(String[] args) {

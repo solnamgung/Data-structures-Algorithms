@@ -1,4 +1,4 @@
-package com.dataStructuresAndAlgorithms.arrays.binarySearch;
+package binarySearch;
 
 public class OrderedApps {
 

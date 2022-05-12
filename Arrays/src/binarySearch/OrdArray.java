@@ -1,4 +1,4 @@
-package com.dataStructuresAndAlgorithms.arrays.binarySearch;
+package binarySearch;
 
 public class OrdArray {
     private long[] a;
@@ -8,6 +8,7 @@ public class OrdArray {
         a = new long[max];
         nElement = 0;
     }
+
     public int size() {
         return nElement;
     }

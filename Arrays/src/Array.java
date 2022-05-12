@@ -1,5 +1,3 @@
-package com.dataStructuresAndAlgorithms.arrays;
-
 public class Array {
     private int[] items;
     private int count;

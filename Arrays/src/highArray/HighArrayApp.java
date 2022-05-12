@@ -1,4 +1,4 @@
-package com.dataStructuresAndAlgorithms.arrays.highArray;
+package highArray;
 
 public class HighArrayApp {
     public static void main(String[] args) {

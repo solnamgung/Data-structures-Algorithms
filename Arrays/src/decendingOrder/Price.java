@@ -1,4 +1,4 @@
-package com.dataStructuresAndAlgorithms.arrays.decendingOrder;
+package decendingOrder;
 
 public class Price {
     int customerNumber;

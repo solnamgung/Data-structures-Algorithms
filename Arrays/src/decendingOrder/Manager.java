@@ -1,4 +1,4 @@
-package com.dataStructuresAndAlgorithms.arrays.decendingOrder;
+package decendingOrder;
 
 import java.util.ArrayList;
 
