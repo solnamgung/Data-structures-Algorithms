@@ -1,2 +1,4 @@
-package classDataArray;public class ClassDaraArray {
+package classDataArray;
+
+public class ClassDaraArray {
 }
