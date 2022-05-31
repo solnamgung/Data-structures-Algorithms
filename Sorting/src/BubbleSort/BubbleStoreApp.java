@@ -7,21 +7,17 @@ public class BubbleStoreApp {
          ArrayBubble arr;
          arr = new ArrayBubble(mazSize);
 
-         arr.insert(77);
-        arr.insert(99);
-        arr.insert(44);
-        arr.insert(55);
-        arr.insert(22);
-        arr.insert(88);
-        arr.insert(33);
-        arr.display();
+            arr.insert(77);
+            arr.insert(99);
+            arr.insert(44);
+            arr.insert(55);
+            arr.insert(22);
+            arr.insert(88);
+            arr.insert(33);
+            arr.display();
 
         arr.bubbleSort();
         System.out.println("");
         arr.display();
-
-
-
-
     }
 }
