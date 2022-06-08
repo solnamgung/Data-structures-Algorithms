@@ -51,11 +51,33 @@ public class Main {
         }
    }
    public void reverse(int[] array) {
+
         for(int i = 0; i < array.length / 2; i++) {
             int other = array.length - i -1;
+            int temp = array[i];
+            array[i] = array[other];
+            array[other] = temp;
         }
    }
 
+   boolean isPrime(int n) {
+        for(int x = 2; x * x <= n; x++ ) {
+            if(n % x == 0) {
+                return false;
+            }
+        }
+        return true;
+   }
+
+    int factorial(int n) {
+        if(n < 0) {
+            return -1;
+        } else if(n == 0) {
+            return 1;
+        } else {
+            return n * factorial(n-1);
+        }
+    }
     public void TimeComplexity(int[] numbers) {
         //0(2+n) -> 0(n)
         System.out.println(); //0(1)
